@@ -1,0 +1,1 @@
+In the "child" folders of this directory all the images are stored.

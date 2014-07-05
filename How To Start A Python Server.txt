@@ -1,0 +1,15 @@
+To start a python server, open CMD (or your command line) and enter:
+
+if you're on Python 3:
+
+"python -m http.server"
+
+if you're on python 2:
+
+"python -m http.server"
+
+(If in doubt, try both and see which one gives you an error :P)
+
+Once you have done that, in your browser connect to:
+
+127.0.0.1:8000

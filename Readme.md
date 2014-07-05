@@ -1,30 +1,11 @@
-# QuackQuest #
+MelonJS - The Ducsuus Template
 
-## Building ##
-Node.js and Grunt are required to build from source.
+=====
 
-> npm install grunt
+This template is a template put together, designed to make a Pokemon style birds eye view game, which is set-up in a way hopefully easier to understand.
 
-Furthermore the following grunt addons are required:
+=====
 
-``` bash
-npm install grunt-contrib-uglify
-npm install grunt-contrib-jshint
-npm install grunt-contrib-qunit
-npm install grunt-contrib-watch
-npm install grunt-contrib-concat
-```
+A lot of content has been removed, this is mainly the bare bones of a MelonJS game. More or less this is a variation of the "official" MelonJS tutorial.
 
-Then
-
-> grunt
-
-should lint and run the (currently non-existant) tests.
-
-## Running ##
-
-Running
-
-> firefox src/index.html
-
-will open the example game.
+Stuff like particle effects can easily be implemented by adding a new JavaScript file and a few lines of code.
