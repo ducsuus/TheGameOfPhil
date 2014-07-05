@@ -53,6 +53,9 @@ var game = {
     // register our player entity in the object pool
     me.pool.register("mainPlayer", game.PlayerEntity);
 
+    // Register particle effects
+    me.pool.register("ParticleEffect", game.ParticleEffect);
+
     // Register any other entities down here, like we did above
 
     // enable the keyboard and bind keys to their apropriate functions

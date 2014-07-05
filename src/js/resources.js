@@ -13,7 +13,7 @@ game.resources = [
     {name: "gripe_run_right",  type:"image", src: "data/img/sprite/gripe_run_right.png"},
 
     // particle textures - IMPORT NEEDED PARTICLES!
-    //{name: "particle_smoke",  type:"image", src: "data/img/entity/particle/smoke.png"},
+    {name: "particle_smoke",  type:"image", src: "data/img/entity/particle/smoke.png"},
      
     /* 
      * Maps (Well actually, one map now...)

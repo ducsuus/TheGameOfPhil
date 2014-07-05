@@ -49,4 +49,11 @@
    </properties>
   </object>
  </objectgroup>
+ <objectgroup color="#a40922" name="ParticleLayer" width="40" height="40">
+  <object name="ParticleEffect" x="1951" y="1057">
+   <properties>
+    <property name="EffectType" value="smoke"/>
+   </properties>
+  </object>
+ </objectgroup>
 </map>
